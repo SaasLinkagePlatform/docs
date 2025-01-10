@@ -7,17 +7,19 @@
 - 문서 파일과 관련 리소스는 다음과 같은 디렉토리 구조를 따릅니다.
 ```
 /privateSaasOperationSupportCenter
-  /develop-layer #개발영역
-    /link-service-layer #연계서비스영역
-      /ldap #LDAP
-      /mobile #모바일공무원증
-      /code #행정표준코드
-      /gpki #GPKI
-      /other #기타
-  /non-develop-layer #비개발영역
-    /service-request-layer #서비스신청영역
-
-  /other-layer #기타영역
+  /develop 					#개발영역
+    /link-service-layer 	#연계서비스영역
+      /apiCallExample       #API 호출예시 샘플코드
+      /ldap 				#LDAP
+      /mobile 				#모바일공무원증
+      /code 				#행정표준코드
+      /gpki 				#GPKI
+      /other 				#기타
+  /docs 					#document영역
+    /service-request        #서비스신청영역
+	/api-key                #API Key 발급 및 사용영역
+	/technical-support      #개발 기술 지원영역
+  /other					#기타영역            
     /
   /
 ```
