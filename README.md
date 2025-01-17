@@ -2,6 +2,24 @@
 - 본 GitHub 저장소 민간SaaS활용촉진 통합관리포털에서 제공하고 있는 DokuWiki 가이드 문서를 간단하고 직관적인 Markdown 문서로 변환하여 기여받기 위해 생성되었습니다. 
 - 이 프로젝트의 목적은 보다 쉽게 접근할 수 있는 문서 형식을 통해 사용자와 개발자들이 더욱 효과적으로 이용할 수 있도록 돕는 것입니다.
 - 표준프레임워크 가이드 컨트리뷰션 범위는 실행환경 문서로 한정하여 시작하려 합니다. 
+
+---
+# 1. linkService
+### <전자정부 연계 SaaS API 목록 가이드>
+### `서비스명을 클릭하시면, 서비스별 연계 개발 가이드 상세페이지로 이동합니다.`
+
+### 1. [모바일공무원인증](https://github.com/privateSaasOperationSupportCenter/develop/blob/main/linkService/mobile/mobile.md)
+
+### 2. [LDAP](https://github.com/privateSaasOperationSupportCenter/develop/blob/main/linkService/ldap/ldap.md)
+
+### 3. [행정표준코드](https://github.com/privateSaasOperationSupportCenter/develop/blob/main/linkService/code/code.md)
+
+### 4. [GPKI](https://github.com/privateSaasOperationSupportCenter/develop/blob/main/linkService/gpki/gpki.md) (추후 추가 예정)
+
+---
+# 2. portal
+
+---
 ## 문서 구조
 ### 파일 구조
 - 문서 파일과 관련 리소스는 다음과 같은 디렉토리 구조를 따릅니다.
