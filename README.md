@@ -14,6 +14,7 @@
       /mobile 				#모바일공무원증
       /code 				#행정표준코드
       /gpki 				#GPKI
+      /epki 				#EPKI	  
       /other 				#기타
   /docs 					#document영역
     /service-request        #서비스신청영역
